@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Platzy
+          Learn React with Platzy.com
         </a>
       </header>
     </div>
